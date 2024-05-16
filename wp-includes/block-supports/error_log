@@ -1,0 +1,8 @@
+[21-Feb-2024 16:03:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/smkn1sragen.sch.id/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/smkn1sragen.sch.id/wp-includes/block-supports/background.php on line 111
+[21-Feb-2024 16:03:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/websit19/smkn1sragen.sch.id/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/smkn1sragen.sch.id/wp-includes/block-supports/background.php on line 111
